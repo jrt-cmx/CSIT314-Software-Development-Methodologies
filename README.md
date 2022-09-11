@@ -13,7 +13,7 @@ Yin Pei Ying (Documentation)
 
 
 4 User types:
-Admin
-Doctor
-Patient
-Pharmacist
+*Admin
+*Doctor
+*Patient
+*Pharmacist
